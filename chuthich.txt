@@ -1,1 +1,2 @@
-chú thích
+chú thích các lệnh cơ bản trong git
+
